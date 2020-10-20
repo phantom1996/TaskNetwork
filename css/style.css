@@ -9,7 +9,7 @@ html,body{
 	font-family: 'Muli', sans-serif;
 }
 body a{
-	transition: 0.5s all;
+	transition: 0.9s all;
 	-webkit-transition: 0.5s all;
 	-o-transition: 0.5s all;
 	-moz-transition: 0.5s all;
